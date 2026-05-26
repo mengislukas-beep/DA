@@ -1,1 +1,23 @@
-*.csv   
+# Python virtual environments
+myvenv/
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
